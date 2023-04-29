@@ -1,0 +1,13 @@
+.normal {
+    background-color: black;
+    color: white;
+}
+.wild {
+    background-color: yellow;
+}
+
+.normal,
+.wild {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
