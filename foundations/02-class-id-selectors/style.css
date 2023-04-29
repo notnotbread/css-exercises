@@ -1,0 +1,10 @@
+/* style.css */
+
+.even {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
+}
+#apple {
+    font-size: 36px;
+    color: #00ffff;
+}
